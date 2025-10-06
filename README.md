@@ -48,7 +48,7 @@ Usa el comando `python` o `python3` para ejecutar el script, especificando el ob
 
 * **Escanear un rango de puertos personalizado en una IP:**
     ```bash
-    python port_scanner_v2.py -t 192.168.1.1 -p 20-1000
+    python port_scanner_v2.py -t 192.16X.X.X -p 20-1000
     ```
 
 * **Obtener ayuda para ver todas las opciones:**
@@ -131,7 +131,7 @@ Use the `python` or `python3` command to run the script, specifying the target w
 
 * **Scan a custom port range on an IP address:**
     ```bash
-    python port_scanner_v2.py -t 192.168.1.1 -p 20-1000
+    python port_scanner_v2.py -t 192.16X.X.X -p 20-1000
     ```
 
 * **Get help to see all options:**
